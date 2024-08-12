@@ -1,0 +1,27 @@
+{
+  "name": "@stelly/llm-parsing-tools",
+  "version": "1.0.0",
+  "description": "A series of scripts for more easily interacting with llms while coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stelly-dev/llm-tools.git"
+  },
+  "keywords": [
+    "llm",
+    "parsing",
+    "text",
+    "project",
+    "tooling",
+    "metrics"
+  ],
+  "author": "stelly-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stelly-dev/llm-tools/issues"
+  },
+  "homepage": "https://github.com/stelly-dev/llm-tools#readme"
+}
